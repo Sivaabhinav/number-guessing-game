@@ -33,3 +33,43 @@ cd number-guessing-game
 
 # Run the Python file
 python guessing_game.py
+📚 Concepts Used
+
+random.randint() → generate random numbers
+
+while loops → repeat until correct guess
+
+if/elif/else → decision-making
+
+Counters → track attempts
+
+
+
+---
+
+✨ Example Output
+
+Welcome to the Number Guessing Game!
+Guess a number between 1 and 100: 50
+Too high! Try again.
+Guess a number between 1 and 100: 25
+Too low! Try again.
+Guess a number between 1 and 100: 37
+🎉 Correct! You guessed it in 3 attempts.
+
+
+---
+
+🙌 Acknowledgements
+
+This is one of my first Python projects. Excited to learn and build more! 🚀
+
+---
+
+✅ Next steps for you:  
+1. In your GitHub repo, click **Add file → Create new file**.  
+2. Name it: `README.md`.  
+3. Paste the above content.  
+4. Commit (save) the file.  
+
+Now when anyone opens your repo, they’ll see this **beautiful README** with a **Colab button to play the game** 🎮.  
